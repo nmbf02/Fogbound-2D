@@ -37,12 +37,3 @@
 
 - *Foreign Galaxy* – Frank Schroeter  
   [Descargar](https://filmmusic.io/song/8414-foreign-galaxy) | Licencia: [CC BY 4.0](https://filmmusic.io/standard-license
-
-### Fuentes:
-
-- [Galmuri](https://galmuri.quiple.dev/)
-- [DOS Saemmul](https://github.com/hurss/fonts)
-- [Rounded M+ Fixedsys](https://cactus.tistory.com/193)
-- [Neo 둥근모](https://neodgm.dalgona.dev/)
-- [Original 둥근모](https://ith.kr/about/font.html)
-
